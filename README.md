@@ -1,6 +1,6 @@
-### <h1>Hi, I'm Ergin Çetin👋 </h1>
+### <h1 align="center">Hi, I'm Ergin Çetin👋 </h1>
 
-**Frontend Developer - ReactJS - React Native**
+**<p align="center">Frontend Developer - ReactJS - React Native</p>**
 
 - 🔭 I’m currently working with ReactJS, Ant Design Library, Java Spring Boot
 - 🌱 I’m currently learning React Native
