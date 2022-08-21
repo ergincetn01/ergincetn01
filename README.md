@@ -1,11 +1,11 @@
 ### <h1 align="center">Hi, I'm Ergin Çetin👋 </h1>
 
-**<p align="center">Frontend Developer - ReactJS - React Native</p>**
+**<p align="center">Frontend Developer - ReactJS - TypeScript - Flutter</p>**
 
-- 🔭 I’m currently working with ReactJS, Ant Design Library, Java Spring Boot
-- 🌱 I’m currently learning React Native
-- 💬 You can ask me about React, Redux, Antd, C, JavaScript
-- 📫 How to reach me: ergincetn01@gmail.com
+- 🔭 I’m currently working with ReactJS, Ant Design Library, MaterialUI, Java Spring Boot
+- 🌱 I’m currently learning Flutter
+- 💬 You can ask me about React, Redux, Antd, C, JavaScript, Ant Design
+- 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
 <h2> Contact </h2>
 Linkedin: ergincetin <br/>
 Twitter: ergincetn01 <br/>
