@@ -2,8 +2,8 @@
 
 **<p align="center">Frontend Developer - ReactJS - TypeScript - Flutter</p>**
 
-- 🔭 I’m currently working with ReactJS, Ant Design Library, MaterialUI, Java Spring Boot
-- 🌱 I’m currently learning Flutter & React Native
+- 🔭 I’m currently working with ReactJS, Redux, Flutter, Ant Design Library, MaterialUI,
+- 🌱 I’m currently learning React Native
 - 💬 You can ask me about React, Redux, JavaScript, C, Ant Design
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
 - I can speak English, German and Dutch (currently learning Spanish)
