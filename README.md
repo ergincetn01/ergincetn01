@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working with ReactJS, Ant Design Library, MaterialUI, Java Spring Boot
 - 🌱 I’m currently learning Flutter & React Native
-- 💬 You can ask me about React, Redux, Antd, C, JavaScript, Ant Design
+- 💬 You can ask me about React, Redux, JavaScript, C, Ant Design
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
 - I can speak English, German and Dutch (currently learning Spanish)
 <h2> Contact </h2>
