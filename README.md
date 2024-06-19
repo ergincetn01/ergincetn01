@@ -1,12 +1,12 @@
 ### <h1 align="center">Hi, I'm Ergin Çetin👋 </h1>
 
-**<p align="center">Frontend Developer - ReactJS - TypeScript - Flutter</p>**
+**<p align="center">Frontend Developer - ReactJS - TypeScript - React Native</p>**
 
-- 🔭 I’m currently working with ReactJS, Redux, Flutter, Ant Design Library, MaterialUI,
-- 🌱 I’m currently learning React Native
-- 💬 You can ask me about React, Redux, JavaScript, C, Ant Design
+- 🔭 I’m currently working with ReactJS, ReduxToolkit, RTK Query,React Native, MaterialUI,
+- 🌱 I’m currently learning NestJS
+- 💬 You can ask me about anything & oppptunities for collaborations
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
-- I can speak English, German and Dutch (currently learning Spanish)
+- I can speak English, Dutch and German(beginner level Spanish)
 <h2> Contact </h2>
 Linkedin: ergincetin <br/>
 Gitlab: ergincetin
