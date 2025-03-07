@@ -1,10 +1,10 @@
 ### <h1 align="center">Hi, I'm Ergin Çetin👋 </h1>
 
-**<p align="center">Frontend Developer - ReactJS - TypeScript - React Native</p>**
+**<p align="center">React Native Developer</p>**
 
-- 🔭 I’m currently working with ReactJS, ReduxToolkit, RTK Query,React Native, MaterialUI,
-- 🌱 I’m currently learning NestJS
-- 💬 You can ask me about anything & oppptunities for collaborations
+- 🔭 I’m currently working with React Native,TypeScript, ReduxToolkit, Zustand, ContextAPI, Tanstack Query, Reanimated, Expo managed apps 
+- 🌱 I’m currently learning NodeJS
+- 💬 You can ask me about anything & opportunities for collaborations
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
 - I can speak English, Dutch and German(beginner level Spanish)
 <h2> Contact </h2>
