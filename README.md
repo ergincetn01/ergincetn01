@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with React Native,TypeScript, ReduxToolkit, Zustand, ContextAPI, Tanstack Query, Reanimated, Expo managed apps 
 - 🌱 I’m currently learning NodeJS
 - 💬 You can ask me about anything & opportunities for collaborations
-- 📫 How to reach me: ergincetn01@gmail.com / medium.com/ergincetn01
+- 📫 How to reach me: ergincetn01@gmail.com / medium.com/@ergincetn01
 - I can speak English, Dutch and German(beginner level Spanish)
 <h2> Contact </h2>
 Linkedin: ergincetin <br/>
