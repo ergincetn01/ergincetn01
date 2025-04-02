@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm Ergin Çetin👋 </h1>
 
-**<p align="center">React Native Developer</p>**
+**<p align="center">React & React Native Developer</p>**
 
 - 🔭 I’m currently working with React, React Native,TypeScript, ReduxToolkit,ContextAPI, MaterialUI, Fomrik, Yup, Zustand, ContextAPI, Tanstack Query, Reanimated, Lottie Animations and Expo managed apps 
 - 🌱 I’m currently learning NodeJS
