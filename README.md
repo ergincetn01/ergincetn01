@@ -3,10 +3,10 @@
 **<p align="center">React & React Native Developer</p>**
 
 - 🔭 I’m currently working with React, React Native,TypeScript, ReduxToolkit,ContextAPI, MaterialUI, Fomrik, Yup, Zustand, ContextAPI, Tanstack Query, Reanimated, Lottie Animations and Expo managed apps 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning NestJS and PostgreSQL
 - 💬 You can ask me about anything & opportunities for collaborations
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/@ergincetn01
-- I can speak English, Dutch and German(beginner level Spanish)
+- I can speak English, Dutch and German (beginner level Spanish)
 <h2> Contact </h2>
 Linkedin: ergincetin <br/>
 Gitlab: ergincetin
