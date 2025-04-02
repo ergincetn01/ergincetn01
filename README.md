@@ -2,7 +2,7 @@
 
 **<p align="center">React Native Developer</p>**
 
-- 🔭 I’m currently working with React Native,TypeScript, ReduxToolkit, Zustand, ContextAPI, Tanstack Query, Reanimated, Lottie Animations and Expo managed apps 
+- 🔭 I’m currently working with React, React Native,TypeScript, ReduxToolkit,ContextAPI, MaterialUI, Fomrik, Yup, Zustand, ContextAPI, Tanstack Query, Reanimated, Lottie Animations and Expo managed apps 
 - 🌱 I’m currently learning NodeJS
 - 💬 You can ask me about anything & opportunities for collaborations
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/@ergincetn01
