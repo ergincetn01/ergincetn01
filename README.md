@@ -3,7 +3,7 @@
 **<p align="center">React & React Native Developer</p>**
 
 - 🔭 I’m currently working with React, React Native,TypeScript, ReduxToolkit,ContextAPI, MaterialUI, Fomrik, Yup, Zustand, ContextAPI, Tanstack Query, Reanimated, Lottie Animations and Expo managed apps 
-- 🌱 I’m currently learning NestJS, Prisma, Amazon S3 and PostgreSQL
+- 🌱 I’m currently learning NestJS, Prisma and PostgreSQL
 - 💬 You can ask me about anything & opportunities for collaborations
 - 📫 How to reach me: ergincetn01@gmail.com / medium.com/@ergincetn01
 - I can speak English, Dutch and German (beginner level Spanish)
